@@ -1,0 +1,7 @@
+E:\WORK_2020\AHBS\Migration-Project\newMVC\bin\Debug\net6.0\publish\newMVC.exe
+E:\WORK_2020\AHBS\Migration-Project\newMVC\bin\Debug\net6.0\publish\appsettings.Development.json
+E:\WORK_2020\AHBS\Migration-Project\newMVC\bin\Debug\net6.0\publish\appsettings.json
+E:\WORK_2020\AHBS\Migration-Project\newMVC\bin\Debug\net6.0\publish\newMVC.dll
+E:\WORK_2020\AHBS\Migration-Project\newMVC\bin\Debug\net6.0\publish\newMVC.deps.json
+E:\WORK_2020\AHBS\Migration-Project\newMVC\bin\Debug\net6.0\publish\newMVC.runtimeconfig.json
+E:\WORK_2020\AHBS\Migration-Project\newMVC\bin\Debug\net6.0\publish\newMVC.pdb
